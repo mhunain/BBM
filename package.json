@@ -1,0 +1,16 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BBMServer.js",
+  "scripts": {
+    "start": "node BBMServer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "mongoose": "~3.8.1",
+    "body-parser": "~1.0.1"
+  }
+}
